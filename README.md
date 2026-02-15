@@ -63,7 +63,7 @@ python3 -m venv myvenv
 # Linux / macOS
 source myvenv/bin/activate
 # Windows
-# myvenv\Scripts\activate
+myvenv\Scripts\activate
 
 # 5️⃣ Gerekli Python paketlerini yükleyin
 pip install -r requirements.txt
