@@ -49,3 +49,24 @@ Python ve Bash Script ile geliştirilmiştir.
 
 ---
 
+## ⚙️ Kurulum
+# 1️⃣ Repoyu klonlayın
+git clone https://github.com/ffurares/ctf-toolkit.git
+
+# 2️⃣ Proje klasörüne girin
+cd ctf-toolkit
+
+# 3️⃣ Python sanal ortam oluşturun
+python3 -m venv myvenv
+
+# 4️⃣ Sanal ortamı aktive edin
+# Linux / macOS
+source myvenv/bin/activate
+# Windows
+# myvenv\Scripts\activate
+
+# 5️⃣ Gerekli Python paketlerini yükleyin
+pip install -r requirements.txt
+
+# 6️⃣ Aracı çalıştırın
+python3 main.py
