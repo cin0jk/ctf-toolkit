@@ -51,4 +51,4 @@ Python ve Bash Script ile geliştirilmiştir.
 GIF veya ekran görüntüsü ekleyebilirsin:
 
 ```markdown
-![Tool Demo](images/menu.gif)
+![Tool Demo](.img/menu.gif)
