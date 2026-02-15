@@ -37,6 +37,7 @@ def menu():
  |TR |                                                                          |TR | 
  |___|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|___| 
 (_____)                  Made for CTF and Penetration Testing                  (_____)
+                                      cin0jk
                                        
 """, "blue", attrs=['bold']))
 
