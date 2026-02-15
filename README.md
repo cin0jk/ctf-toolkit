@@ -1,4 +1,4 @@
-##⚠️ Yasal Uyarı (Disclaimer)
+#⚠️ Yasal Uyarı (Disclaimer)
 
 Bu araç yalnızca eğitim, CTF çalışmaları ve etik siber güvenlik araştırmaları için tasarlanmıştır.
 
