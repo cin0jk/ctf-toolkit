@@ -51,7 +51,7 @@ Python ve Bash Script ile geliştirilmiştir.
 # ⚙️Kurulum
 
 # 1️⃣ Repoyu klonlayın
-git clone https://github.com/ffurares/ctf-toolkit.git
+git clone https://github.com/cin0jk/ctf-toolkit.git
 
 # 2️⃣ Proje klasörüne girin
 cd ctf-toolkit
