@@ -60,10 +60,10 @@ cd ctf-toolkit
 python3 -m venv myvenv
 
 4️⃣ Sanal ortamı aktive edin
-# Linux / macOS
+Linux / macOS
 source myvenv/bin/activate
-# Windows
-# myvenv\Scripts\activate
+ Windows
+myvenv\Scripts\activate
 
 5️⃣ Gerekli Python paketlerini yükleyin
 pip install -r requirements.txt
